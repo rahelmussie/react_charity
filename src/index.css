@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: grey;
+  font-size: 130%;
+  color: black;
+  text-align: center;
+  
+  clear: left;
+}
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+#l1 {
+  float: left;
+  position: relative;
+  bottom: 10px;
+  right: 10px;
+}
+#l2 {
+  position: relative;
+  bottom: 10px;
+  right: 10px;
+  float: left;
+  clear: left;
+
+}
+#l3 {
+  position: relative;
+  left: 10px;
+  right: 10px;
+  float: right;
+  
+}
+#l4 {
+  position: relative;
+  top: 10px;
+  right: 10px;
+  float: right;
+  clear: left;
+}
